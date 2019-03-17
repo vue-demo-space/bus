@@ -82,7 +82,7 @@ export default Bus
 
 main.js：
 
-```vue
+```js
 import Vue from 'vue'
 import App from './App.vue'
 import Bus from './bus'
